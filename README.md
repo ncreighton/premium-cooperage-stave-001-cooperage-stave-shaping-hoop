@@ -1,0 +1,2 @@
+# premium-cooperage-stave-001-cooperage-stave-shaping-hoop
+Tired of losing track of your stave measurements and hoop tension schedules across scattered notes? The 'Cooperage Stave Shaping &amp; Hoop Craft Hub' brings precision and repeatability to your barrel-making craft.  This Notion template eliminates the chaos of manual tracking by providing a dedicated system for stave dimensions, hoop tension logs, and
